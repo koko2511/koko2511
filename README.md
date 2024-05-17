@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koko2511
+- 👋 Hi, I’m khushi Arora 
 - 👀 I’m interested in ...learning programming
 - 🌱 I’m currently learning ...c language 
 - 💞️ I’m looking to collaborate on ...nothing
